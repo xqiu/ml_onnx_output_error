@@ -1,0 +1,11 @@
+# all the regular C# project ignores:
+*.csproj.user
+*.user
+*.suo
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+[Tt]est[Rr]esult*
+*.sln.docstates
+.vs/
+obj/
